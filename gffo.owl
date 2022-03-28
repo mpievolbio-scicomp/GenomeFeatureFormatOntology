@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#"
+     xml:base="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo"
+     xmlns:so="http://purl.obolibrary.org/obo/so/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:edam="http://edamontology.org/"
+     xmlns:gfvo="http://github.com/BioInterchange/Ontologies/gfvo#"
+     xmlns:rdfs="http://purl.uniprot.org/core/"
+     xmlns:faldo="http://biohackathon.org/resource/faldo#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Alias -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Alias"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Name -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Name"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Parent -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Parent"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#annotated_protein_regions -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#annotated_protein_regions"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#codon_start -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#codon_start"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#confidence_level -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#confidence_level"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#constitutive -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#constitutive"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#domain -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#domain"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#exon_id -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#exon_id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#features -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#features"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene_id -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene_id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#id -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#inference -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#inference"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#note -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#note"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#product -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#product"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_families -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_families"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_id -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#rank -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#rank"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#similarity -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#similarity"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#strand -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#strand"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#transcript_id -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#transcript_id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_annotation_score -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_annotation_score"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_review_status -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_review_status"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Alias -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Alias"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ID">
+        <rdfs:isDefinedBy rdf:resource="gfvo:hasIdentifier"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Name"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Parent -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Parent"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#algorithm -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#algorithm"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#annotated_protein_regions -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#annotated_protein_regions"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#bound_moiety -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#bound_moiety"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#cc_domain -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#cc_domain"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#cleavage -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#cleavage"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#codon_start -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#codon_start"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#confidence_level -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#confidence_level"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#constitutive -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#constitutive"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#coord -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#coord"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#description -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#description"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#domain -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#domain"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#exon_id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#exon_id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#features -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#features"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ft_domain -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ft_domain"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene_id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene_id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#inference -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#inference"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#motif -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#motif"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ncRNA_class -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ncRNA_class"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#note -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#note"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#old_locus_tag -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#old_locus_tag"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ortholog -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ortholog"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#pathway -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#pathway"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#primary_name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#primary_name"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#product -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#product"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_families -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_families"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#pseudo -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#pseudo"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#rank -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#rank"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#regulatory_class -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#regulatory_class"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#signal -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#signal"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#similarity -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#similarity"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#strand -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#strand"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#transcript_id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#transcript_id"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_annotation_score -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_annotation_score"/>
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_review_status -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_review_status"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Feature -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Feature">
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/SO_0000110"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref">
+        <rdfs:isDefinedBy rdf:resource="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
+        <rdfs:isDefinedBy rdf:resource="gfvo:ExternalReference"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term">
+        <rdfs:isDefinedBy rdf:resource="up:annotation"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end">
+        <rdfs:isDefinedBy rdf:resource="faldo:end"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame">
+        <rdfs:isDefinedBy rdf:resource="gfvo.CodingFrameOffset"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag">
+        <rdfs:isDefinedBy rdf:resource="up:locus_name"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score">
+        <rdfs:isDefinedBy rdf:resource="so:score"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid">
+        <rdfs:isDefinedBy rdf:resource="gfvo:Landmark"/>
+        <rdfs:isDefinedBy rdf:resource="faldo:reference"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source">
+        <rdfs:isDefinedBy rdf:resource="gfvo:Landmark"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start">
+        <rdfs:isDefinedBy rdf:resource="faldo:begin"/>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
