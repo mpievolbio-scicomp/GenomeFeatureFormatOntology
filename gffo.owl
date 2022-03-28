@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#"
-     xml:base="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo"
+<rdf:RDF xmlns="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#"
+     xml:base="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo"
      xmlns:so="http://purl.obolibrary.org/obo/so/"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -11,7 +11,7 @@
      xmlns:gfvo="http://github.com/BioInterchange/Ontologies/gfvo#"
      xmlns:rdfs="http://purl.uniprot.org/core/"
      xmlns:faldo="http://biohackathon.org/resource/faldo#">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo"/>
+    <owl:Ontology rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo"/>
     
 
 
@@ -26,201 +26,201 @@
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Alias -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Alias -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Alias"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Alias"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Dbxref -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Dbxref"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Name -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Name -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Name"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Name"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Ontology_term -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Ontology_term"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Parent -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Parent -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Parent"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Parent"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#annotated_protein_regions -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#annotated_protein_regions -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#annotated_protein_regions"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#annotated_protein_regions"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#codon_start -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#codon_start -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#codon_start"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#codon_start"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#confidence_level -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#confidence_level -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#confidence_level"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#confidence_level"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#constitutive -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#constitutive -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#constitutive"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#constitutive"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#domain -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#domain -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#domain"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#domain"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#end -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#end"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#exon_id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#exon_id -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#exon_id"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#exon_id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#features -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#features -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#features"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#features"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#frame -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#frame"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#gene -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#gene"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene_id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#gene_id -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene_id"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#gene_id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#id -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#id"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#inference -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#inference -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#inference"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#inference"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#locus_tag -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#locus_tag"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#note -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#note -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#note"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#note"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#product -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#product -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#product"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#product"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_families -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#protein_families -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_families"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#protein_families"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#protein_id -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_id"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#protein_id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#rank -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#rank -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#rank"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#rank"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#score -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#score"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#seqid -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#seqid"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#similarity -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#similarity -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#similarity"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#similarity"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#source -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#source"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#start -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#start"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#strand -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#strand -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#strand"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#strand"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#transcript_id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#transcript_id -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#transcript_id"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#transcript_id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_annotation_score -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#uniprot_annotation_score -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_annotation_score"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#uniprot_annotation_score"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_review_status -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#uniprot_review_status -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_review_status"/>
+    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#uniprot_review_status"/>
     
 
 
@@ -235,299 +235,299 @@
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Alias -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Alias -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Alias"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Alias"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Dbxref -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Dbxref"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ID -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#ID -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ID">
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#ID">
         <rdfs:isDefinedBy rdf:resource="gfvo:hasIdentifier"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Name -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Name -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Name"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Name"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Ontology_term -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Ontology_term"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Parent -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Parent -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Parent"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Parent"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#algorithm -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#algorithm -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#algorithm"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#algorithm"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#annotated_protein_regions -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#annotated_protein_regions -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#annotated_protein_regions"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#annotated_protein_regions"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#bound_moiety -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#bound_moiety -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#bound_moiety"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#bound_moiety"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#cc_domain -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#cc_domain -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#cc_domain"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#cc_domain"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#cleavage -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#cleavage -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#cleavage"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#cleavage"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#codon_start -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#codon_start -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#codon_start"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#codon_start"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#confidence_level -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#confidence_level -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#confidence_level"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#confidence_level"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#constitutive -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#constitutive -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#constitutive"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#constitutive"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#coord -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#coord -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#coord"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#coord"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#description -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#description -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#description"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#description"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#domain -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#domain -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#domain"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#domain"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#end -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#end"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#exon_id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#exon_id -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#exon_id"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#exon_id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#features -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#features -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#features"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#features"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#frame -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#frame"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ft_domain -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#ft_domain -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ft_domain"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#ft_domain"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#gene -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#gene"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene_id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#gene_id -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#gene_id"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#gene_id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#inference -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#inference -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#inference"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#inference"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#locus_tag -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#locus_tag"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#motif -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#motif -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#motif"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#motif"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ncRNA_class -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#ncRNA_class -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ncRNA_class"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#ncRNA_class"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#note -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#note -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#note"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#note"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#old_locus_tag -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#old_locus_tag -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#old_locus_tag"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#old_locus_tag"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ortholog -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#ortholog -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#ortholog"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#ortholog"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#pathway -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#pathway -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#pathway"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#pathway"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#primary_name -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#primary_name -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#primary_name"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#primary_name"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#product -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#product -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#product"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#product"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_families -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#protein_families -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_families"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#protein_families"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#protein_id -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#protein_id"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#protein_id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#pseudo -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#pseudo -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#pseudo"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#pseudo"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#rank -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#rank -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#rank"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#rank"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#regulatory_class -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#regulatory_class -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#regulatory_class"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#regulatory_class"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#score -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#score"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#seqid -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#seqid"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#signal -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#signal -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#signal"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#signal"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#similarity -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#similarity -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#similarity"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#similarity"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#source -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#source"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#start -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#start"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#strand -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#strand -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#strand"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#strand"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#transcript_id -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#transcript_id -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#transcript_id"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#transcript_id"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_annotation_score -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#uniprot_annotation_score -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_annotation_score"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#uniprot_annotation_score"/>
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_review_status -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#uniprot_review_status -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#uniprot_review_status"/>
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#uniprot_review_status"/>
     
 
 
@@ -542,9 +542,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Feature -->
+    <!-- https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Feature -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Feature">
+    <owl:Class rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Feature">
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/SO_0000110"/>
     </owl:Class>
     
@@ -558,33 +558,33 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Dbxref">
-        <rdfs:isDefinedBy rdf:resource="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Dbxref">
         <rdfs:isDefinedBy rdf:resource="gfvo:ExternalReference"/>
+        <rdfs:isDefinedBy rdf:resource="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#Ontology_term">
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#Ontology_term">
         <rdfs:isDefinedBy rdf:resource="up:annotation"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#end">
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#end">
         <rdfs:isDefinedBy rdf:resource="faldo:end"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#frame">
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#frame">
         <rdfs:isDefinedBy rdf:resource="gfvo.CodingFrameOffset"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#locus_tag">
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#locus_tag">
         <rdfs:isDefinedBy rdf:resource="up:locus_name"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#score">
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#score">
         <rdfs:isDefinedBy rdf:resource="so:score"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#seqid">
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#seqid">
         <rdfs:isDefinedBy rdf:resource="gfvo:Landmark"/>
         <rdfs:isDefinedBy rdf:resource="faldo:reference"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#source">
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#source">
         <rdfs:isDefinedBy rdf:resource="gfvo:Landmark"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://www.semanticweb.org/grotec/ontologies/2022/2/gffo#start">
+    <rdf:Description rdf:about="https://raw.githubusercontent.com/mpievolbio-scicomp/GenomeFeatureFormatOntology/main/gffo#start">
         <rdfs:isDefinedBy rdf:resource="faldo:begin"/>
     </rdf:Description>
 </rdf:RDF>
